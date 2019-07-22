@@ -1,0 +1,15 @@
+git clone https://github.com/hebele123/git_tutorial.git
+cd git_tutorial
+git log
+echo "test123" > <name>.txt
+git diff
+git status
+git add <name>.txt
+git status
+git commit
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git commit
+git status
+git log
+git push

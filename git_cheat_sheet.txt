@@ -1,0 +1,15 @@
+git clone <url>  clone a repo
+
+git log          show history of commits
+git diff         show difference between current state and the last commited
+git status       show the current status (which files are staged and changed)
+
+git add  <file>  add to staging 
+git commit       commit staged file
+git push         push changes to remote
+
+git commit -a           commit all changes directly (skip staging stage)
+git commit -a --amend   commit all changes and amend the last commit
+git pull                get changes from remote
+git branch -b <bname>   create a new branch
+git checkout <bname>    switch branches
