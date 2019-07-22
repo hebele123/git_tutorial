@@ -1,0 +1,36 @@
+[33mcommit 9ff660fa5b609e1a7c405614b47cc463c4e5519f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d1a87f0 0b998c7
+Author: fsarigoz <fsarigoz@gmail.com>
+Date:   Sun Jul 21 20:26:11 2019 -0700
+
+    Merge branch 'master' of https://github.com/hebele123/git_tutorial
+
+[33mcommit d1a87f02cd4a16cc4b0394e5401e2ceb1a6f76ab[m
+Author: fsarigoz <fsarigoz@gmail.com>
+Date:   Sun Jul 21 20:18:15 2019 -0700
+
+    This is a new commit message for addding fatihs.txt
+
+[33mcommit 0b998c73c5edfbc43ccf00710a14580f013dda90[m
+Author: test name <test@test.com>
+Date:   Mon Jul 22 03:17:45 2019 +0000
+
+    this is my commit message for kemal
+
+[33mcommit 64d1a032dcf42dcc09d0491b9d06a053e39b9c69[m
+Author: Isa Pakatci <ipakatci@purestorage.com>
+Date:   Sun Jul 21 19:45:25 2019 -0700
+
+    cheat sheet and commands
+
+[33mcommit 6423c0b9e5c5a2b784e354f04ba87b0dcf475512[m
+Author: test name <test@test.com>
+Date:   Mon Jul 22 01:57:54 2019 +0000
+
+    new file isa is added
+
+[33mcommit eeead48133281d1325a2d145634ae5371ccbab88[m
+Author: Isa Pakatci <ipakatci@purestorage.com>
+Date:   Sun Jul 21 17:57:39 2019 -0700
+
+    first commit
